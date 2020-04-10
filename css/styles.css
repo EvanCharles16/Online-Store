@@ -83,6 +83,7 @@ header .header-links a:hover {
 /* Slider One */
 .site-slider {
   position: relative;
+  width: 100%;
 }
 
 .site-slider .slider-btn .prev,
@@ -267,5 +268,13 @@ hr .border {
 hr .socket {
   border-top: 2px solid #d5d5d5;
   padding: 20px;
+}
+
+.img-fluid {
+  margin: auto;
+}
+
+.slick-track {
+  height: 100%;
 }
 /*# sourceMappingURL=styles.css.map */

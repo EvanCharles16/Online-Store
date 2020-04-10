@@ -91,6 +91,7 @@ header {
 /* Slider One */
 .site-slider {
     position: relative;
+    width: 100%;
 
     .slider-btn .prev,
     .slider-btn .next {
@@ -284,3 +285,11 @@ hr{
     }
 }
 
+.img-fluid{
+    // height: ;
+    margin: auto;
+}
+
+.slick-track {
+    height: 100%
+}
